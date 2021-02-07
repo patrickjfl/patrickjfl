@@ -29,7 +29,6 @@ I came to tech because I'm passionate about problem solving.  Both the nerdy, Co
 * My amazing experience on the School of Code bootcamp
 * The [final project](http://3.250.192.68:3000/) that I worked with my team on, deployed using Docker and AWS
 * My background and journey into tech
-*
 
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
