@@ -4,11 +4,6 @@ I am a former teacher and trade union organiser turned full stack developer, aft
 
 I came to tech because I'm passionate about problem solving.  Both the nerdy, Code Wars type, and the big stuff.  I want to work on projects that solve problems in the world, big or small.
 
-<!--
-**patrickjfl/patrickjfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
  
  * A patch for [an open-source pair programming timer](https://pairprogrammingtimer.com/), to add a pause/restart functionality.  The project uses Svelte for its frontend and Go for its server
