@@ -8,7 +8,7 @@ I came to tech because I'm passionate about problem solving.  Both the nerdy, Co
  
  * A patch for [an open-source pair programming timer](https://pairprogrammingtimer.com/), to add a pause/restart functionality.  The project uses Svelte for its frontend and Go for its server
  * A full stack greenfield app for a client in the fitness sector.  The project is currently in its planning phase - more details coming soon...
- * Integrating the GitHub API into our [final School of Code project](http://3.250.192.68:3000/), to automate the feedback submission process and make the app ready for use by SoC
+ * Integrating the GitHub API into our final School of Code project, to automate the feedback submission process and make the app ready for use by SoC
  
 🌱 I’m currently learning ...
 
@@ -28,7 +28,7 @@ I came to tech because I'm passionate about problem solving.  Both the nerdy, Co
 💬 Ask me about ...
 
 * My amazing experience on the School of Code bootcamp
-* The [final project](http://3.250.192.68:3000/) that I worked with my team on, deployed using Docker and AWS
+* The final project that I worked with my team on, deployed using Docker and AWS
 * My background and journey into tech
 
 <!-- - 📫 How to reach me: ... -->
