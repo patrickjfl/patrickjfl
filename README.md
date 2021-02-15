@@ -6,8 +6,8 @@ I came to tech because I'm passionate about problem solving.  Both the nerdy, Co
 
 🔭 I’m currently working on ...
  
+  * A full stack greenfield app for a client in the fitness sector, which will allow schools and elite athletes to access customised training programmes.  The application is being built using Next.js, with Sanity.io integrated with the Vimeo API for management of all relevant content types.  We are using also using GoCardless to manage payments
  * A patch for [an open-source pair programming timer](https://pairprogrammingtimer.com/), to add a pause/restart functionality.  The project uses Svelte for its frontend and Go for its server
- * A full stack greenfield app for a client in the fitness sector.  The project is currently in its planning phase - more details coming soon...
  * Integrating the GitHub API into our [final School of Code project](http://52.214.103.49:3000/), to automate the feedback submission process and make the app ready for use by SoC
  
 🌱 I’m currently learning ...
