@@ -15,7 +15,7 @@ I came to tech because I'm passionate about problem solving.  Both the nerdy, Co
 * Go
 * Graphql
 * Svelte
-* Java
+* Sanity.io
 
 👯 I’m looking to collaborate on ...
 
