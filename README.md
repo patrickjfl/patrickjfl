@@ -12,10 +12,10 @@ I came to tech because I'm passionate about problem solving.  Both the nerdy, Co
  
 🌱 I’m currently learning ...
 
-* Go
-* Graphql
-* Svelte
 * Sanity.io
+* Go
+* Svelte
+* Graphql
 
 👯 I’m looking to collaborate on ...
 
