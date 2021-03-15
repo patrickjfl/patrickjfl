@@ -27,7 +27,7 @@ I came to tech because I'm passionate about problem solving.  Both the nerdy, Co
 💬 Ask me about ...
 
 * My amazing experience on the School of Code bootcamp
-* The [final project](http://52.214.103.49:3000/) that I worked with my team on, deployed using Docker and AWS
+* The final project that I worked with my team on, deployed using Docker and AWS
 * My background and journey into tech
 
 <!-- - 📫 How to reach me: ... -->
